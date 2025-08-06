@@ -1,0 +1,63 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.title {
+  text-align: center;
+  color: #ff0572;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+}
+
+textarea:focus {
+  border-color: #ff0572;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #ff0572;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #e00464;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.badge {
+  display: inline-block;
+  background: #ffe4ef;
+  color: #ff0572;
+  padding: 5px 10px;
+  border-radius: 50px;
+  font-size: 14px;
+}
