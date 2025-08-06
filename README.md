@@ -41,7 +41,7 @@ It enables users to input their symptoms and receive **AI-generated diagnosis su
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MediBuddy.git
+   git clone https://github.com/Chirag-varu/MediBuddy.git
    cd MediBuddy
    ```
 
@@ -91,8 +91,6 @@ It enables users to input their symptoms and receive **AI-generated diagnosis su
 ---
 
 ## 🖼️ Preview Screenshot
-
-*Add a screenshot here to showcase the interface. Example placeholder:*
 
 ![MediBuddy Preview](preview.png)
 
